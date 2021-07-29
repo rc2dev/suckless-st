@@ -78,8 +78,7 @@ static unsigned int cursorthickness = 2;
 static int bellvolume = 0;
 
 /* default TERM value */
-/* st's default makes VIM black and white. */
-char *termname = "xterm-color";
+char *termname = "st-256color";
 
 /*
  * spaces per tab
