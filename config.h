@@ -223,7 +223,7 @@ static Shortcut shortcuts[] = {
 	{ MODKEY,               XK_k,           kscrollup,      {.i =  1} },
 	{ MODKEY,               XK_j,           kscrolldown,    {.i =  1} },
 	{ MODKEY,               XK_s,           externalpipe,   { .v = savecmd } },
-	{ MODKEY,               XK_d,           externalpipe,   { .v = copyoutcmd } },
+	{ MODKEY,               XK_o,           externalpipe,   { .v = copyoutcmd } },
 	{ MODKEY,               XK_r,           externalpipe,   { .v = openurlcmd } },
 	{ MODKEY,               XK_t,           externalpipe,   { .v = copyurlcmd } },
 };
