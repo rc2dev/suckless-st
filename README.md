@@ -1,6 +1,6 @@
 # st - simple terminal
 
-Build of st by [Rafael Cavalcanti](https://rafaelc.org).
+Build of st by [Rafael Cavalcanti](https://rafaelc.org/dev).
 
 st is a simple terminal emulator for X which sucks less.
 
