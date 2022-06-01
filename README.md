@@ -16,6 +16,10 @@ st is a simple terminal emulator for X which sucks less.
 - scrollback-mouse-altscreen
 - xresources
 
+## My own patches
+
+- Add desktop file. This fixes missing icon on docks.
+
 ## Requirements
 
 In order to build st you need the Xlib header files.
