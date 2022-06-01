@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=st
+TryExec=st
+Exec=st
+Icon=terminal
+Type=Application
+Categories=System;TerminalEmulator;
+StartupNotify=true
