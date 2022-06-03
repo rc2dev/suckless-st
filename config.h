@@ -264,8 +264,8 @@ static Shortcut shortcuts[] = {
 	{ MODKEY,               XK_Return,      newterm,        {.i =  0} },
 	{ MODKEY,               XK_r,           externalpipe,   { .v = openurlcmd } },
 	{ MODKEY,               XK_i,           historyQuit,    {.i =  0} },
-	{ MODKEY|ShiftMask,     XK_J,           historyShiftY,  {.i =  1} },
-	{ MODKEY|ShiftMask,     XK_K,           historyShiftY,  {.i = -1} },
+	{ MODKEY,               XK_j,           historyShiftY,  {.i =  1} },
+	{ MODKEY,               XK_k,           historyShiftY,  {.i = -1} },
 };
 
 /*
