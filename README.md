@@ -12,8 +12,6 @@ st is a simple terminal emulator for X which sucks less.
 - externalpipe
 - font2
 - newterm
-- scrollback
-- scrollback-mouse-altscreen
 - xresources
 
 ## My own patches
