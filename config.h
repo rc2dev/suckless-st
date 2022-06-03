@@ -150,7 +150,7 @@ unsigned int defaultfg = 257;
 unsigned int defaultbg = 256;
 static unsigned int defaultcs = 257;
 static unsigned int defaultrcs = 256;
-unsigned int const buffSize = 255;
+unsigned int const buffSize = 20000;
 
 /*
  * Default shape of cursor
