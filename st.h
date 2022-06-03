@@ -84,6 +84,9 @@ void draw(void);
 
 void externalpipe(const Arg *);
 void newterm(const Arg *);
+void historyShiftY(Arg const *ly);
+void historyQuit();
+
 void printscreen(const Arg *);
 void printsel(const Arg *);
 void sendbreak(const Arg *);
