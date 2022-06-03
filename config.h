@@ -266,6 +266,9 @@ static Shortcut shortcuts[] = {
 	{ MODKEY,               XK_i,           historyQuit,    {.i =  0} },
 	{ MODKEY,               XK_j,           historyShiftY,  {.i =  1} },
 	{ MODKEY,               XK_k,           historyShiftY,  {.i = -1} },
+	 /* Workaround for pgup/pgdown w/o more vim patches. */
+	{ MODKEY,               XK_d,           historyShiftY,  {.i =  20} },
+	{ MODKEY,               XK_u,           historyShiftY,  {.i = -20} },
 };
 
 /*
