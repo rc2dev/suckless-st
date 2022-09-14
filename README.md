@@ -18,6 +18,7 @@ st is a simple terminal emulator for X which sucks less.
 ## My own patches
 
 - Add desktop file. This fixes missing icon on docks.
+- Complement to vim patch: scroll with mouse.
 
 ## Requirements
 
