@@ -244,6 +244,7 @@ static MouseShortcut mshortcuts[] = {
 #define TERMMOD (ControlMask|ShiftMask)
 
 static char *openurlcmd[] = { "/bin/sh", "-c", "st-urlhandler -o", "externalpipe", NULL };
+static char *copyurlcmd[] = { "/bin/sh", "-c", "st-urlhandler -c", "externalpipe", NULL };
 
 static Shortcut shortcuts[] = {
 	/* mask                 keysym          function        argument */
@@ -263,6 +264,7 @@ static Shortcut shortcuts[] = {
 	{ TERMMOD,              XK_Num_Lock,    numlock,        {.i =  0} },
 	{ MODKEY,               XK_Return,      newterm,        {.i =  0} },
 	{ MODKEY,               XK_r,           externalpipe,   { .v = openurlcmd } },
+	{ MODKEY,               XK_t,           externalpipe,   { .v = copyurlcmd } },
 	{ MODKEY,               XK_i,           historyQuit,    {.i =  0} },
 	{ MODKEY,               XK_j,           historyShiftY,  {.i =  1} },
 	{ MODKEY,               XK_k,           historyShiftY,  {.i = -1} },
