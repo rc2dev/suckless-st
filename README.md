@@ -20,6 +20,7 @@ st is a simple terminal emulator for X which sucks less.
 
 - Add desktop file. This fixes missing icon on docks.
 - Complement to vim patch: scroll with mouse.
+- Allow custom cursor color.
 
 ## Requirements
 
