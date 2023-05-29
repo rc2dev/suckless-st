@@ -6,7 +6,6 @@ st is a simple terminal emulator for X which sucks less.
 
 ## Third party patches
 
-- alpha
 - anysize
 - boxdraw
 - externalpipe
