@@ -12,6 +12,7 @@ st is a simple terminal emulator for X which sucks less.
 - font2
 - newterm
 - vim patch: historyVanilla, patch_scrollback and patch_column. This fixes horizontal resizing and brings scrollback.
+- w3m - alpha seems incompatible with this.
 - workingdir
 - xresources
 
