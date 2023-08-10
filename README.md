@@ -1,8 +1,8 @@
 # st - simple terminal
 
-Build of st by [Rafael Cavalcanti](https://rafaelc.org/dev).
+Build of st by [Rafael Cavalcanti](https://rafaelc.org/dev), 2021-2023. st is a simple terminal emulator for X which sucks less.
 
-st is a simple terminal emulator for X which sucks less.
+_Notice: To cleanly integrate updates from upstream, this branch might be rebased._
 
 ## Third party patches
 
@@ -20,7 +20,6 @@ st is a simple terminal emulator for X which sucks less.
 
 - Add desktop file. This fixes missing icon on docks.
 - Complement to vim patch: scroll with mouse.
-- Allow custom cursor color.
 
 ## Requirements
 
