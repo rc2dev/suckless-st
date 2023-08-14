@@ -6,6 +6,7 @@ _Notice: To cleanly integrate updates from upstream, this branch might be rebase
 
 ## Third party patches
 
+- alpha
 - anysize
 - boxdraw
 - externalpipe
