@@ -13,7 +13,6 @@ _Notice: To cleanly integrate updates from upstream, this branch might be rebase
 - "glyph wide support"
 - newterm
 - vim patch: historyVanilla, patch_scrollback and patch_column. This fixes horizontal resizing and brings scrollback.
-- w3m - alpha seems incompatible with this.
 - workingdir
 - xresources
 
