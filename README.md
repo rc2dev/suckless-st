@@ -15,7 +15,7 @@ _Notice: To cleanly integrate updates from upstream, this branch might be rebase
 - newterm
 - vim patch: historyVanilla, patch_scrollback and patch_column. This fixes horizontal resizing and brings scrollback.
 - workingdir
-- xresources
+- "xresources with reload signal"
 
 ## My own patches
 
