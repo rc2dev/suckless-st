@@ -1,6 +1,6 @@
 # st - simple terminal
 
-Build of st by [Rafael Cavalcanti](https://rafaelc.org/dev), 2021-2023. st is a simple terminal emulator for X which sucks less.
+Build of st by [Rafael Cavalcanti](https://rafaelc.org/dev), 2021-2024. st is a simple terminal emulator for X which sucks less.
 
 _Notice: To cleanly integrate updates from upstream, this branch might be rebased._
 
